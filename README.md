@@ -221,7 +221,7 @@ Calculation of sensitivity
 
 ## GRAPH:
 ![output](./grp.png) 
-Figure -09 graph between temperature values and ADC output 
+Figure-09 graph between temperature values and ADC output 
 
 ## OUTPUT:
 ![output](./pic1.png)
